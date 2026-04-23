@@ -1,1 +1,1 @@
-# -python-manufactura
+# python-manufactura
