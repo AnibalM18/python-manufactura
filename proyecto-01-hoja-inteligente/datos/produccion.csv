@@ -1,0 +1,16 @@
+﻿fecha,turno,operador,unidades_producidas,unidades_defectuosas,tiempo_paro_min
+2024-01-02,Matutino,García,450,12,15 
+2024-01-02,Vespertino,López,480,8,5 
+2024-01-02,Nocturno,Martínez,410,20,35 
+2024-01-03,Matutino,García,465,10,10 
+2024-01-03,Vespertino,López,490,6,0 
+2024-01-03,Nocturno,Martínez,400,25,40 
+2024-01-04,Matutino,García,455,9,12 
+2024-01-04,Vespertino,López,500,5,0 
+2024-01-04,Nocturno,Martínez,420,18,30 
+2024-01-05,Matutino,García,470,11,8 
+2024-01-05,Vespertino,López,488,7,5 
+2024-01-05,Nocturno,Martínez,415,22,38 
+2024-01-06,Matutino,García,460,13,14 
+2024-01-06,Vespertino,López,495,4,2 
+2024-01-06,Nocturno,Martínez,408,21,33 

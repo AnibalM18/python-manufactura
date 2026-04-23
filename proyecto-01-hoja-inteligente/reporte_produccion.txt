@@ -1,0 +1,22 @@
+ 
+======================================================= 
+   REPORTE DE PRODUCCIÓN — SEMANA DEL 2024-01-02 
+======================================================= 
+ 
+    RESUMEN GLOBAL 
+    Total de unidades producidas : 6,806 
+    Total de unidades defectuosas: 191 
+    Tasa de calidad global       : 97.19% 
+    Tiempo de paro promedio      : 16.5 min/turno 
+ 
+    ANÁLISIS DE TURNOS 
+    Turno con mayor producción   : Vespertino 
+    Turno con menor producción   : Nocturno 
+ 
+    OPERADORES 
+    Operador con mayor rendimiento: López 
+ 
+    ACCIONES SUGERIDAS 
+    - Revisar causas de paro en turno Nocturno 
+    - Documentar prácticas del turno Vespertino como best practice 
+======================================================= 
